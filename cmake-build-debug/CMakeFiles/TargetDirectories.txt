@@ -1,0 +1,3 @@
+/home/nicolas/Documentos/Documentos/2informatica/2CUATRI/Redes/Practicas/Practica 5/Practica_1/cmake-build-debug/CMakeFiles/Ejemplo.dir
+/home/nicolas/Documentos/Documentos/2informatica/2CUATRI/Redes/Practicas/Practica 5/Practica_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nicolas/Documentos/Documentos/2informatica/2CUATRI/Redes/Practicas/Practica 5/Practica_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
